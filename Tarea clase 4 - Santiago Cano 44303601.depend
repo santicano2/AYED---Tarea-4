@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1745419903 source:d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 4 - listas\tarea clase 4 - santiago cano 44303601\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1745364214 d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 4 - listas\tarea clase 4 - santiago cano 44303601\lista.h
+	"nodo.h"
+
+1745363424 d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 4 - listas\tarea clase 4 - santiago cano 44303601\nodo.h
+
+1745364114 source:d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 4 - listas\tarea clase 4 - santiago cano 44303601\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1745419783 source:d:\unla\2025\1er cuatrimestre\algoritmos y estructuras de datos\clase 4 - listas\tarea clase 4 - santiago cano 44303601\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
